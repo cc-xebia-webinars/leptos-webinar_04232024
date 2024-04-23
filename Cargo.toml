@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+
+members = [
+  "projects/explore-closures",
+  "projects/hello-world",
+  "projects/tools-app",
+  "projects/tools-app-final",
+]
